@@ -3,16 +3,23 @@
 An analysis of Nigeria's inflation rate over six decades using World Bank data, 
 examining how major economic and political shocks have shaped the cost of living.
 
+As someone who runs a retail business in Nigeria, I wanted to understand how these 
+inflation swings compare historically — pricing and stocking decisions today are 
+shaped by exactly this kind of volatility, and this project helped me see how far 
+back that pattern actually goes.
+
 ## Key Findings
 - Inflation has been highly volatile rather than steadily rising — swinging between 
   near-zero and peaks above 70% at different points since 1960
-- The sharpest spike in the dataset occurs during the **1993–95 economic crisis**, 
-  where inflation surged to its highest recorded level in the series
-- A second major spike appears in the mid-1970s, followed by decades of relative 
-  moderation through the 2000s
+- **1995 recorded the highest inflation rate in the dataset at 72.8%**, the peak of 
+  a sustained crisis period — four of the five worst years on record (1988, 1989, 
+  1993, 1994, 1995) cluster in this single decade, showing the 1993–95 crisis was 
+  the climax of a longer economic buildup, not an isolated shock
+- A second major spike appears in the mid-1970s (~34%), followed by two decades 
+  of relative moderation through the 2000s
 - Inflation has trended upward again since 2020, accelerating through the 
-  **post-COVID period** and approaching 30% by 2024
-- The **2016 recession** shows a more moderate but still visible bump compared to 
+  post-COVID period and approaching 30% by 2024
+- The 2016 recession shows a more moderate but still visible bump compared to 
   the 1990s and post-2020 periods
 
 ## Data
